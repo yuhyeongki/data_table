@@ -1,0 +1,6 @@
+{
+  "name": "EduCounsel - 학생 상담 이력 관리 및 인사이트 대시보드",
+  "description": "클라우드 데이터베이스 기반 학생별 상담 이력 체계적 관리, 위험군 모니터링 및 심층 통계 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
